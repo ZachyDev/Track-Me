@@ -1,0 +1,9 @@
+#heading {
+  padding:30px;
+  color: aliceblue;
+  text-align: left;
+}
+input[type='text'] {
+  max-width: 450px;
+  margin: 0 auto;
+}
